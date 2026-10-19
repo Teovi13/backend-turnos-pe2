@@ -1,0 +1,20 @@
+[
+  {
+    "id": "4971a0ab-8dcf-42a8-a230-38db8e38e674",
+    "name": "Consulta médica general",
+    "description": "Consulta de control con médico clínico",
+    "duration": 30,
+    "price": 12000,
+    "category": "salud",
+    "available": true
+  },
+  {
+    "id": "cec7dc9b-9f5e-4119-b4c2-4c7cab837ce7",
+    "name": "Corte de pelo",
+    "description": "Corte de pelo con lavado y peinado",
+    "duration": 45,
+    "price": 8000,
+    "category": "estetica",
+    "available": true
+  }
+]

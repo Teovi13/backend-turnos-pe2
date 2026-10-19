@@ -1,0 +1,25 @@
+{
+  "name": "backend-turnos-pe2",
+  "version": "2.0.0",
+  "description": "Sistema backend de turnos y reservas. Pre-entrega 2: API REST con Express para el recurso services.",
+  "author": "Teo Elian Villar",
+  "main": "src/server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "node --watch src/server.js"
+  },
+  "keywords": [
+    "nodejs",
+    "esm",
+    "express",
+    "api-rest",
+    "turnos",
+    "reservas"
+  ],
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^18.0.8",
+    "express": "^5.3.0"
+  }
+}
